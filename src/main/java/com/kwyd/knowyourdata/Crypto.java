@@ -22,11 +22,11 @@ Maliciois Use (Malware-ISe).
 
 * What can be done with this software?
 * 1. Encryption of Data including; Documents, File, any 
-sensitive data.
-* 2. Decryption of Data including; Documents, Filr, any 
+ sensitive data.
+* 2. Decryption of Data including; Documents, File, any 
 encrypted data this tool can decrypt it. Use this mode for 
-ethical purpose only, so meaningful with passkey used to
- encrypt data!
+ethical purpose only, in meanwhile use a  passkey used for data
+ encryption before attempting decrypting any data!
 
 * Copyright
 * 2026-2027 all rights reserved. KNOW-YOUR-DATA developed by 

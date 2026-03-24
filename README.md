@@ -21,15 +21,15 @@ denied including: Data Decryption Without Permission (DDPM),
 Malicious Use (Malware-ISe).
 
 ## 1.5  What can be done with this software?
-* **Encryption of Data including:** Documents, File,any sensitive data.
+* **Encryption of Data including:** Documents, File, any sensitive data.
  * **Decryption of Data including** 
-Documents, Filr, any encrypted data this tool can decrypt 
+Documents, File, any encrypted data this tool can decrypt 
 it. Use this mode for ethical purpose only, in meanwhile
-use a passkey used for
- encryption of data!
+when decrypting data - You're required to use  a passkey used for
+ encryption process! This process highlight you have enough privileges for data decryption.
 
 ***
 ## Copyright
 *2026-2027 all rights reserved. KNOW-YOUR-DATA developed by KABUGO EMMANUEL*
-*Contact for Help if needed*
+*Contact for Help if needed. Send message at: developer@kabugoai.online for more further assistences.*
 ***
